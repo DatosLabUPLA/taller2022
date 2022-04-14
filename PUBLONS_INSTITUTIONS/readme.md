@@ -1,4 +1,3 @@
-# PORTAL DE JOURNALS
 # PORTAL DE INSTITUTIONS
 ## Información general
 - Mantenido por:  Italo Lama Guerra
