@@ -1,16 +1,1501 @@
 Nombre Institución,Investigadores,Número de Reseñas Verificadas,Número de Publicaciones
-University of São Paulo,"14,187",127,"46,334"
-Universidade Estadual Paulista,"7,632",44,"15,725"
-St. Petersburg State University,"6,815",7,"4,041"
-The University of Queensland,"6,328",162,"50,089"
-Charles University in Prague,"6,313",39,"11,809"
-Higher School of Economics,"5,576",8,"2,567"
-Universidade Estadual de Campinas,"5,527",69,"21,439"
-Lomonosov Moscow State University,"5,105",18,"6,721"
-Mansoura University,"4,692",51,"17,139"
-Universidade de Lisboa,"4,379",120,"34,519"
-Universiti Malaya,"4,377",66,"21,931"
-Centre National de la Recherche Scientifique (CNRS),"4,188",112,"30,820"
-Kazan Federal University,"4,017",12,"3,750"
-Hacettepe University,"3,720",14,"5,433"
-Radboud University Nijmegen Medical Center,"3,694",18,"7,054"
+University of São Paulo,14.187,127,46.334
+Universidade Estadual Paulista,7.632,44,15.725
+St. Petersburg State University,6.815,7,4.041
+The University of Queensland,6.328,162,50.089
+Charles University in Prague,6.313,39,11.809
+Higher School of Economics,5.576,8,2.567
+Universidade Estadual de Campinas,5.527,69,21.439
+Lomonosov Moscow State University,5.105,18,6.721
+Mansoura University,4.692,51,17.139
+Universidade de Lisboa,4.379,120,34.519
+Universiti Malaya,4.377,66,21.931
+Centre National de la Recherche Scientifique (CNRS),4.188,112,30.820
+Kazan Federal University,4.017,12,3.750
+Hacettepe University,3.720,14,5.433
+Radboud University Nijmegen Medical Center,3.694,18,7.054
+Universiti Sains Malaysia,3.633,47,16.722
+Universidad Complutense de Madrid,3.548,55,17.985
+University of Sevilla,3.448,85,23.359
+University of Granada,3.350,66,21.294
+Institut National de la Sante et de la Recherche Medicale (Inserm),3.176,61,19.137
+University of Copenhagen,3.172,40,11.886
+Universidade do Porto,3.112,111,31.862
+National Institute of Advanced Industrial Science and Technology (AIST),3.092,18,6.893
+Universidade Federal do Rio Grande do Sul,3.084,33,13.255
+Universitat de Barcelona,3.049,57,19.076
+Tomsk State University,3.045,1,745
+The Ohio State University,2.998,43,13.985
+University of Hong Kong,2.989,58,15.044
+Al-Farabi Kazakh National University,2.981,1,508
+University College London,2.940,125,34.483
+Ghent University,2.905,90,21.279
+Commonwealth Scientific & Industrial Research Organisation (CSIRO),2.887,29,11.002
+Universidade Federal do Rio de Janeiro (UFRJ),2.881,22,9.177
+Universidade Federal de Minas Gerais,2.737,30,11.890
+King Abdulaziz University,2.736,52,20.487
+Consiglio Nazionale delle Ricerche (CNR),2.601,147,39.731
+"Catholic University of Leuven, KUL",2.500,74,18.025
+Universidade Federal de São Paulo,2.500,23,9.636
+The University of Melbourne,2.489,116,31.306
+Istanbul Technical University,2.401,20,7.027
+University of Valencia,2.396,53,17.726
+National University of Singapore,2.386,68,22.675
+Universidade Federal de São Carlos (UFSCar),2.384,10,5.004
+University of New South Wales Sydney,2.338,122,32.281
+Consejo Superior de Investigaciones Científicas (CSIC),2.324,84,20.639
+The University of Sydney,2.308,116,33.319
+Monash University,2.296,112,32.146
+Nanyang Technological University,2.262,67,17.820
+Universidade Federal de Santa Catarina (UFSC),2.230,33,8.637
+Sapienza University of Rome,2.210,123,35.231
+Nagoya University,2.196,42,10.580
+Universidad Autónoma de Madrid,2.143,34,10.649
+Tsinghua University,2.142,55,14.880
+Harvard Medical School,2.138,103,34.785
+University of the Basque Country (UPV/EHU),2.104,44,14.167
+Universidad Politécnica de Madrid,2.095,42,13.479
+University of Michigan,2.087,76,22.592
+University of Cambridge,2.068,76,20.938
+Universitat Autònoma de Barcelona,2.055,35,11.039
+Universidade Federal do Paraná (UFPR),2.049,12,7.673
+Zhejiang University,2.046,61,19.886
+Universidade de Brasília (UnB),2.038,19,6.778
+University of Oxford,2.006,74,20.648
+University of Manchester,1.983,58,16.952
+Universidade Nova de Lisboa,1.972,43,14.287
+University of Florida,1.968,64,19.048
+Universitat Politècnica de València,1.933,45,14.055
+University of Western Australia,1.901,52,12.968
+İstanbul University - Cerrahpaşa,1.892,11,5.581
+Universidade do Minho,1.879,55,17.330
+Universidade de Aveiro,1.843,74,20.235
+Peoples Friendship University of Russia,1.804,6,1.660
+Imperial College London,1.788,79,19.502
+Instituto de Ciencias de la Atmósfera y Cambio Climático,1.770,30,9.027
+Hokkaido University,1.770,36,10.596
+Peter the Great St. Petersburg State Polytechnical University,1.759,2,980
+Shanghai Jiao Tong University,1.755,36,12.959
+University of Milan,1.750,85,22.426
+Polytechnic University of Catalonia,1.740,35,12.184
+Cukurova University,1.728,17,5.405
+Universiti Kebangsaan Malaysia,1.726,32,9.179
+Universiti Teknologi Malaysia,1.725,32,10.419
+L.N. Gumilyov Eurasian National University,1.720,2,466
+Imam Abdulrahman Bin Faisal University,1.705,11,3.546
+Stanford University,1.704,66,19.647
+University of Salamanca,1.698,29,10.669
+Universidade de Coimbra,1.695,98,24.702
+ELTE Eötvös Loránd University,1.695,14,4.705
+Igor Sikorsky Kyiv Polytechnic Institute,1.692,2,583
+The University of Tokyo,1.675,58,17.297
+Masaryk University Brno,1.650,12,4.146
+University of Tehran,1.647,36,14.186
+Technical University of Denmark,1.645,51,13.419
+Southern Federal University,1.638,4,1.918
+University of Zaragoza,1.633,30,11.953
+University of Bologna,1.621,92,27.799
+University of Nottingham,1.615,47,16.741
+University of Santiago De Compostela,1.593,30,11.432
+King's College London,1.591,80,22.763
+University of Toronto,1.586,54,17.494
+ETH Zurich,1.576,49,13.489
+Universidad de Chile,1.564,11,4.865
+Ural Federal University,1.562,7,2.459
+"University of California, Los Angeles",1.549,49,14.599
+University of Alberta,1.541,59,18.382
+University of Science & Technology of China,1.537,35,8.461
+Universidade Federal de Pernambuco,1.531,9,3.972
+Xi'an Jiaotong University,1.527,38,10.063
+"Lviv Polytechnic National University, LPNU",1.527,6,1.695
+Akdeniz University,1.520,12,3.985
+University of Padua,1.517,90,24.442
+University of Edinburgh,1.515,55,16.230
+"University of California, San Diego",1.510,40,11.874
+Peking University,1.507,18,7.100
+University of South Australia,1.506,27,9.721
+Massachusetts Institute of Technology (MIT),1.502,29,9.414
+"University of California, Davis",1.501,60,16.579
+Universidad de Málaga,1.483,29,9.164
+Universidade Federal Fluminense (UFF),1.481,21,4.917
+University of Tasmania,1.480,28,10.517
+Karolinska Institutet,1.470,62,16.442
+Australian National University,1.469,36,9.976
+University of Naples Federico II,1.466,75,23.074
+Universiti Teknologi MARA,1.466,13,5.496
+"University of California, Berkeley",1.460,27,9.107
+Universiti Putra Malaysia,1.456,19,7.811
+Budapest University of Technology & Economics,1.454,27,7.485
+University of Helsinki,1.441,32,13.025
+Universidad de Castilla-La Mancha (UCLM),1.431,28,9.966
+Vellore Institute of Technology,1.429,27,8.684
+Korea Advanced Institute of Science & Technology,1.425,16,4.396
+University of Oviedo,1.416,46,13.546
+Aarhus University,1.411,51,13.705
+University of Birmingham,1.407,49,12.830
+"French National Research Institute for Agriculture, Food & Environment (INRAE)",1.394,33,9.380
+Shiraz University of Medical Sciences,1.391,12,4.330
+Poznan University of Technology,1.384,42,9.736
+Curtin University,1.382,55,13.010
+AGH University of Science and Technology,1.376,38,12.010
+Huazhong University of Science & Technology,1.375,40,11.724
+Sun Yat Sen University,1.372,32,9.024
+Okayama University,1.364,20,5.527
+Semmelweis University,1.361,5,2.687
+The University of Texas at Austin,1.356,35,10.870
+Universidade Federal do ABC (UFABC),1.355,7,3.077
+University of Wisconsin Madison,1.347,57,13.887
+Harbin Institute of Technology,1.343,36,9.091
+University of British Columbia,1.340,50,14.645
+Queensland University of Technology (QUT),1.332,55,12.940
+King Saud University,1.329,54,13.521
+Oles Honchar Dnipro National University,1.324,-,238
+Northwestern University,1.324,29,7.909
+Universidade Federal do Ceará (UFC) / Federal University of Ceará (Brazil),1.317,13,4.121
+University of Al-Qadisiyah,1.316,5,2.041
+"ITMO University (Saint Petersburg National Research University of Information Technologies, Mechanics and Optics)",1.315,2,1.155
+McGill University,1.314,61,14.974
+University of Southampton,1.312,34,9.912
+Universidad de Valladolid,1.305,22,6.700
+Cardiff University,1.305,35,10.171
+University of Leeds,1.296,32,10.702
+Penn State University,1.290,44,12.456
+Gaziantep University,1.287,9,2.606
+Seoul National University,1.280,25,7.314
+University of Pittsburgh,1.274,63,16.770
+Samara State Technical University,1.272,-,189
+Johns Hopkins University,1.271,59,14.711
+RIKEN,1.271,13,4.208
+Xiamen University,1.262,20,6.082
+University of Illinois Urbana-Champaign,1.261,30,8.308
+Babeș-Bolyai University Cluj-Napoca,1.256,22,7.570
+Hong Kong Polytechnic University,1.255,49,15.969
+Tomsk Polytechnic University,1.252,10,2.170
+P.N. Lebedev Physical Institute of the Russian Academy of Sciences,1.238,2,678
+University of Adelaide,1.234,72,19.155
+Delft University of Technology,1.233,43,11.791
+Inonu University,1.230,6,2.168
+The Chinese University of Hong Kong,1.229,41,11.577
+Istanbul University,1.228,10,3.639
+University of Antwerp,1.225,18,6.195
+National Institutes of Health,1.223,43,11.515
+University of Glasgow,1.221,44,11.494
+Firat University,1.221,7,4.577
+Nanjing University,1.219,23,5.811
+Tehran University of Medical Sciences,1.217,28,9.530
+University of Pennsylvania,1.215,40,10.015
+Tianjin University,1.205,35,11.258
+University of Turin,1.204,49,14.900
+Isfahan University of Medical Sciences,1.203,10,2.918
+Taras Shevchenko National University of Kyiv,1.200,7,1.222
+"University of California, Irvine",1.198,36,8.549
+Griffith University,1.192,52,21.780
+University of Alicante,1.187,34,10.014
+University of Murcia,1.186,22,7.905
+Technical University of Košice,1.184,17,6.124
+Harvard University,1.184,25,7.609
+Michigan State University,1.184,48,12.414
+Purdue University,1.175,30,10.352
+Texas A&M University,1.171,22,7.687
+Wuhan University,1.167,24,8.416
+University of Sheffield,1.166,36,10.215
+Federal University of Rio Grande do Norte,1.163,13,3.830
+The University of Auckland,1.162,73,19.010
+Universidad de Cádiz,1.162,15,6.450
+Tohoku University,1.157,42,12.806
+Kocaeli University,1.148,9,2.623
+Universidade Federal de Goias,1.144,12,3.920
+Lund University,1.135,42,21.421
+Mendel University in Brno,1.131,4,2.535
+University of Bristol,1.126,39,10.703
+Virginia Polytechnic Institute & State University,1.125,40,11.910
+Macquarie University,1.123,51,11.985
+Kyoto University,1.122,57,14.262
+Chinese Academy of Sciences,1.121,25,11.739
+Cornell University,1.121,36,10.195
+Islamic Azad University,1.117,15,4.936
+Universidad de Cordoba,1.112,28,9.008
+Tabriz University of Medical Sciences,1.107,19,5.054
+Middle East Technical University,1.104,8,4.147
+University of Zurich,1.102,62,15.674
+Universidade Federal da Bahia,1.097,5,2.809
+Yale University,1.095,40,12.235
+Radboud University Nijmegen,1.095,19,4.718
+Universidade da Coruña,1.087,25,6.965
+Arizona State University,1.086,44,12.769
+Polytechnic of Milan,1.085,55,16.788
+University of Florence,1.078,56,15.289
+Belarusian National Technical University,1.076,1,181
+Duke University,1.076,34,10.981
+Sichuan University,1.074,22,6.720
+Universidade de Vigo,1.065,52,12.767
+Universidade Federal de Santa Maria (UFSM),1.063,17,5.779
+University of Technology - Iraq,1.063,46,13.945
+University of Southern California,1.063,40,11.390
+University of Newcastle,1.058,22,8.139
+Tokyo Institute of Technology,1.056,19,6.542
+Universidade do Estado do Rio de Janeiro,1.055,11,4.804
+Saratov State University,1.052,6,1.394
+Columbia University,1.046,38,13.674
+Universidad Carlos III de Madrid,1.045,26,7.976
+University of Technology Sydney,1.043,58,15.252
+University of Washington,1.041,31,8.323
+Jilin University,1.038,14,4.775
+K L University,1.037,6,2.105
+Georgia Institute of Technology,1.032,25,7.343
+Shiraz University,1.032,12,3.715
+Deakin University,1.022,41,11.397
+Satbayev University,1.022,-,127
+Kyiv National University of Trade and Economics,1.021,-,79
+Utrecht University,1.018,28,8.689
+Moscow Institute of Physics and Technology,1.016,2,1.248
+Russian Presidential Academy of National Economy & Public Administration,1.016,-,56
+Yuriy Fedkovych Chernivtsi National University,1.015,-,132
+Brno University of Technology,1.013,31,12.709
+Fudan University,1.006,21,6.445
+Universidad Autónoma del Estado de México (UAEM),1.003,2,851
+Ben Gurion University,997,20,5.469
+Universität Vienna,993,32,9.295
+National Taiwan University,992,39,9.458
+University of Minnesota,991,51,14.548
+Universidad de Extremadura,989,20,7.590
+Southeast University,988,33,9.042
+University of Groningen,986,34,8.875
+UNED (Universidad Nacional de Educacion a Distancia),980,8,3.533
+Universidade Federal de Uberlândia (UFU),979,9,3.489
+Tongji University,978,21,5.575
+Sechenov First Moscow State Medical University,978,8,3.570
+Hiroshima University,971,23,6.949
+North Carolina State University,966,37,11.478
+Nicolaus Copernicus University,963,25,6.047
+University of Pisa,961,52,15.032
+Universidade Federal de Viçosa,957,13,4.280
+Western University (University of Western Ontario),953,24,7.205
+RMIT University,942,43,11.285
+Universitas Airlangga,939,6,1.968
+Uppsala University,937,28,8.606
+Pompeu Fabra University (UPF),936,6,2.484
+Universidad Rey Juan Carlos,933,29,7.821
+National Institute for Materials Science,932,12,4.028
+South China University of Technology,932,27,6.990
+University of North Carolina Chapel Hill,930,35,9.336
+"Swiss Federal Institute of Technology, Lausanne",929,16,6.824
+Universidade Federal do Pará,926,5,2.035
+UTFPR - Federal University of Technology - Paraná,926,15,4.598
+Beihang University,925,16,5.233
+National Research Nuclear University MEPhI (Moscow Engineering Physics Institute),924,3,842
+"Cairo University, Giza, Egypt",922,41,15.482
+Shandong University,920,22,6.209
+Aix-Marseille Universite,920,15,4.977
+Pontificia Universidad Catolica de Chile,920,12,3.769
+University of Warwick,915,23,8.200
+Central South University,911,13,4.756
+"Ain Shams University, Cairo, Egypt",911,22,7.022
+French Alternative Energies and Atomic Energy Commission,906,4,2.177
+"University of California, San Francisco",902,46,12.455
+Universidad de Alcalá,901,21,5.381
+Universidade Federal da Paraíba,900,12,3.283
+Oak Ridge National Laboratory,897,20,6.094
+Norwegian University of Science and Technology,892,33,10.134
+Universidade Estadual de Maringá (UEM),892,5,2.329
+University of Liverpool,889,27,9.941
+Iran University Science & Technology,888,23,5.623
+Empresa Brasileira de Pesquisa Agropecuaria (Embrapa),884,2,1.813
+Jagiellonian University,882,22,6.213
+University of Calgary,881,38,13.560
+Vrije Universiteit Amsterdam,876,14,4.773
+Ioffe Physical-Technical Institute of the Russian Academy of Sciences,876,1,867
+University of Maryland at College Park,873,15,5.732
+Faculdade de Medicina da Universidade de São Paulo,868,10,2.812
+Far Eastern State University,867,3,960
+University of Otago,866,64,15.360
+Wageningen University & Research,863,23,6.966
+Universitat Rovira i Virgili,862,10,4.222
+Ankara University,862,4,2.114
+RWTH Aachen University,861,25,6.521
+Istituto Superiore di Sanita,858,4,2.958
+South Ural State University,858,8,3.149
+Iowa State University,857,30,8.708
+James Cook University,856,19,5.896
+Pontifícia Universidade Católica do Rio Grande do Sul,855,4,1.862
+KTH Royal Institute of Technology,852,22,7.106
+Aalto University,852,24,7.952
+University of South Africa,851,7,2.993
+King Fahd University of Petroleum & Minerals,850,30,8.694
+Polytechnic University of Bucharest,848,46,13.554
+University of Pretoria,845,23,7.437
+Dalian University of Technology,845,19,7.469
+The University of Jordan,843,8,2.611
+City University of Hong Kong,842,40,9.971
+University of Wollongong,840,28,8.273
+Chalmers University of Technology,836,25,7.295
+Karlsruhe Institute of Technology (KIT),835,24,7.526
+University of Southern Denmark,829,33,8.661
+Universidade Federal do Espirito Santo,822,11,2.493
+Comenius University Bratislava,822,11,2.831
+Universidade Federal de Lavras,820,4,2.218
+Loughborough University,819,12,5.232
+Universita di Modena e Reggio Emilia,819,34,7.755
+Aristotle University of Thessaloniki,818,65,18.070
+Osaka University,815,22,8.156
+Konkuk University,810,6,2.197
+West Ukrainian National University,807,-,10
+University of Amsterdam,806,42,9.710
+Slovak Academy of Sciences,806,11,3.531
+Iran University of Medical Sciences,802,14,4.659
+Bauman Moscow State Technical University,797,-,573
+Shahid Beheshti University Of Medical Sciences,795,16,4.618
+University of Colorado Boulder,794,12,5.359
+Alexandria University,794,20,5.056
+University of Warsaw,794,9,3.879
+Sorbonne Université,794,13,4.819
+National Research Centre,793,23,8.107
+University of Tartu,793,23,4.994
+University of Newcastle upon Tyne,790,31,9.758
+"Vrije Universiteit Brussel, VUB, Free University of Brussels",790,14,3.984
+Universidad de La Laguna,789,7,2.814
+Université de Montréal,784,25,7.050
+Danylo Halytsky Lviv National Medical University,783,2,1.045
+Ahvaz Jundishapur University of Medical Sciences,783,3,1.338
+"Washington University, Saint Louis",780,43,11.857
+Emory University,778,46,12.677
+Warsaw University of Technology,778,17,5.958
+University of Bucharest,777,8,4.178
+"National University of Science and Technology ""MISIS""",774,11,2.446
+University of Palermo,773,49,13.981
+University College Dublin,773,36,11.606
+Oswaldo Cruz Foundation (FIOCRUZ),772,8,2.291
+Lodz University of Technology,770,17,5.096
+McMaster University,770,45,9.904
+University of Diyala,768,7,2.241
+Amirkabir University of Technology,768,28,8.755
+Siberian Federal University,767,5,1.341
+Czech Technical University in Prague,766,26,5.848
+Trinity College Dublin,766,32,8.899
+Rutgers University,765,17,5.536
+University of Georgia,764,33,9.542
+Chongqing University,761,18,5.871
+University of the Balearic Islands,758,21,6.849
+Keio University,757,22,6.098
+Colorado State University,756,20,5.228
+University of Arizona,756,26,6.545
+Universitat Jaume I,755,18,5.525
+University of South Florida,748,24,7.050
+Kanazawa University,748,6,2.713
+Ferdowsi University Mashhad,746,20,5.032
+University of Electronic Science and Technology of China,746,32,10.106
+Czech University of Life Sciences,744,13,4.523
+University of Cape Town,742,13,6.028
+State University of New York at Buffalo,741,26,9.155
+China University of Geosciences (Wuhan),738,10,2.483
+University of Geneva,737,20,5.782
+Hanyang University,736,13,5.118
+Durham University,736,15,4.997
+Dokuz Eylül University,734,7,4.292
+University of Oslo,733,25,7.428
+North-Western State Medical University named after I.I. Mechnikov,732,-,100
+Beijing Institute of Technology,730,16,5.958
+University of Basrah,729,13,4.378
+Universidade Estadual de Londrina (State University of Londrina) - UEL,726,6,1.961
+Necmettin Erbakan University,725,7,2.096
+Indian Institute of Technology (IIT) - Madras,725,18,6.152
+FZU - Institute of Physics of the Czech Academy of Sciences,724,9,1.836
+Lawrence Berkeley National Laboratory,724,16,4.796
+Lobachevsky Nizhny Novgorod State University,722,2,1.626
+Novosibirsk State Technical University,717,1,531
+"Escola Superior de Agricultura Luiz de Queiroz, ESALQ, Universidade de São Paulo, USP",715,-,546
+"Sofia University ""St Kliment Ohridski""",713,4,1.693
+Instituto Politécnico Nacional,712,9,3.898
+University of Las Palmas de Gran Canaria (ULPGC),709,17,5.125
+University of Genoa,699,35,11.043
+Bukovinian State Medical University,697,-,12
+University of Basel,693,30,9.403
+Siberian State Medical University,693,1,178
+Northwestern Polytechnical University,692,34,8.361
+Polytechnic University of Turin,691,57,15.193
+Universitat de Girona,690,23,6.761
+University of Chicago,690,23,8.144
+New York University,689,19,6.890
+Korea University,688,17,4.084
+Donetsk National Technical University,688,-,3
+University of Exeter,686,27,6.629
+University of Rome Tor Vergata,685,27,8.681
+University of Navarra,685,22,5.719
+Queen Mary University of London,684,33,8.888
+Indian Institute of Science (IISC) - Bangalore,683,9,3.874
+Wroclaw University of Economics,682,6,1.930
+University of Central Florida,681,21,5.281
+Wrocław University of Environmental and Life Sciences,680,18,3.733
+University of Kentucky,679,29,7.055
+West Pomeranian University of Technology,678,13,3.921
+Yonsei University,678,20,9.888
+University of Baghdad,678,23,7.245
+"National and Kapodistrian University of Athens, NKUA",677,47,12.623
+Universidade Federal de Pelotas,676,3,2.575
+University of Waterloo,674,22,6.260
+University of Kufa,673,13,4.524
+Soochow University,673,25,6.090
+University of Gothenburg,670,31,8.443
+Palacky University Olomouc,669,16,4.662
+"University of Virginia, Charlottesville",668,30,8.458
+University of Ottawa,668,34,9.129
+University of Strathclyde,667,21,7.617
+Northern Technical University Iraq,667,14,2.801
+University of Illinois Chicago,667,30,8.771
+Universidade Federal de Juiz de Fora (UFJF),665,11,2.707
+University of Aalborg,663,41,10.639
+Eindhoven University of Technology,659,24,6.723
+Ege University,659,12,4.267
+Universidad de Huelva,658,6,2.338
+Financial University under the Government of the Russian Federation,655,-,244
+Boston University,654,28,7.783
+Medical University of Warsaw,653,9,2.939
+Tokyo University of Agriculture & Technology,652,10,3.733
+University of Utah,652,20,6.732
+Universidade Federal de Alagoas,651,5,1.650
+"Indian Institute of Technology, Kharagpur",650,15,4.478
+Hungarian Academy of Sciences,650,8,2.694
+Silesian University of Technology,649,32,12.573
+University of Bari,649,41,9.815
+Universite Grenoble Alpes (UGA),648,13,4.245
+University of Catania,648,49,12.165
+University of Iowa,647,40,11.586
+Kermanshah University of Medical Sciences,646,5,1.598
+Swedish University of Agricultural Sciences,646,19,6.257
+Universiti Malaysia Pahang,646,21,5.981
+Universidad de León,645,18,5.152
+Massey University,645,30,8.670
+University of Thi-Qar,644,6,1.855
+National Cheng Kung University,643,12,5.426
+Pomeranian Medical University,643,3,1.404
+Ivan Franko National University of Lviv,642,-,261
+Adam Mickiewicz University,641,15,3.896
+Université Laval,638,20,7.307
+University of Chinese Academy of Sciences,636,6,1.992
+Saint Petersburg Mining University,634,2,418
+Jusup Balasagyn Kyrgyz National University,633,-,1
+Moscow State Institute of International Relations,632,-,79
+Omsk State Technical University (OmSTU),632,-,113
+Carnegie Mellon University,631,8,2.423
+Beijing Normal University,631,11,3.748
+La Trobe University,630,30,8.254
+Novosibirsk State University,630,15,4.143
+CONICET - Consejo Nacional de Investigaciones Científicas y Técnicas,630,22,8.552
+Vanderbilt University,629,25,7.394
+University of Twente,628,24,5.702
+Karadeniz Technical University,627,6,2.910
+Medical University Lodz,625,13,3.140
+Idaho National Laboratory (INL),625,5,1.375
+University of Notre Dame,624,19,4.528
+University of Perugia,624,43,9.849
+South-West University - Bulgaria,620,3,531
+Universidad de Cantabria,620,20,5.424
+Baylor College of Medicine,620,25,6.891
+Shanghai University,616,14,3.578
+Linköping University,615,32,8.956
+Bucharest University of Economic Studies (ASE),615,15,4.930
+University of York - UK,611,22,6.892
+Universidad del Rosario,611,-,613
+"Prokhorov General Physics Institute of the Russian Academy of Sciences, GPI RAS",611,-,463
+Universidad de Jaen,609,19,6.288
+Zaporizhzhia State Medical University,609,1,1.107
+University of Minnesota - Twin Cities,609,17,5.532
+Technical University of Munich (TUM),608,23,5.734
+Zanjan University of Medical Sciences (ZUMS),608,1,530
+Southern University of Science and Technology (SUSTech),605,17,4.650
+Hebrew University of Jerusalem,605,16,4.710
+Odessa National Academy of Food Technologies,605,-,25
+University of Texas Southwestern Medical Center Dallas,604,24,6.235
+Stockholm University,603,17,5.261
+Gdansk University of Technology,603,34,8.893
+Nankai University,603,13,4.538
+Washington State University,602,18,5.510
+University of Bern,601,41,11.117
+Gazi University,601,7,2.513
+University of South Bohemia,601,4,1.989
+Indian Institute of Technology (IIT) - Bombay,599,21,5.354
+University of Bath,596,21,6.075
+San Pablo CEU University,596,5,1.445
+Al Muthanna University,594,5,997
+Yuri Gagarin State Technical University of Saratov,594,1,508
+Wroclaw University of Science and Technology,593,23,6.863
+University of Lausanne,592,19,5.558
+Tallinn University of Technology,591,13,3.472
+Universidade do Algarve,591,34,12.517
+Istituto Nazionale di Fisica Nucleare,591,10,3.098
+Szeged University,588,8,3.615
+Flinders University of South Australia,588,32,8.749
+Princeton University,588,13,4.532
+University of Witwatersrand,587,18,6.701
+University of KwaZulu-Natal,585,13,4.297
+Universite Claude Bernard Lyon 1,584,22,4.871
+Universidad Pablo de Olavide,583,4,2.003
+Universiti Tun Hussein Onn Malaysia,583,11,3.414
+University of Connecticut,583,28,7.357
+"Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo, FMRP-USP",583,4,1.919
+Universidad Miguel Hernandez de Elche,582,22,5.858
+Universitas Syiah Kuala,581,1,458
+University of Milano-Bicocca,581,26,7.714
+Alexandru Ioan Cuza University,581,16,4.062
+University of Lleida,580,14,3.686
+Bulgarian Academy of Sciences,580,13,3.734
+Hunan University,580,21,5.868
+Tarbiat Modares University,578,18,7.698
+Universidade Federal de Mato Grosso do Sul,577,8,2.168
+Louisiana State University,577,17,4.889
+The Queen's University Belfast,575,25,6.908
+Mashhad University of Medical Sciences,575,16,5.712
+Florida State University,573,26,6.875
+Universidade Federal de Mato Grosso (UFMT),573,1,1.020
+Universidad de Guadalajara,573,3,1.304
+Universidade Federal de Sergipe,571,3,924
+"University of California, Santa Barbara",569,10,3.306
+University of Parma,569,29,8.944
+Universidad de Almería,568,24,6.893
+Moscow Aviation Institute,568,-,191
+East China University of Science & Technology,567,12,3.144
+University of Mustansiriyah,566,16,4.660
+Guilan University of Medical Sciences,566,4,751
+Universidad Nacional de Colombia,566,7,3.643
+NATIONAL UNIVERSITY OF LIFE AND ENVIRONMENTAL SCIENCES OF UKRAINE,566,-,70
+National Aviation University,565,-,60
+Kaohsiung Medical University,565,11,2.470
+Politechnika Lubelska,564,12,3.379
+Universite de Lille,563,13,3.665
+Seoul National University College of Medicine,563,2,724
+Lanzhou University,562,7,2.591
+Stellenbosch University,562,14,4.694
+University of Houston,561,20,5.498
+"University of Tennessee, Knoxville",559,32,8.837
+Marmara University,558,9,3.591
+Forschungszentrum Jülich (Jülich Research Centre),556,24,5.102
+Academia Sinica,556,6,2.750
+Virginia Commonwealth University,556,32,10.698
+"University of Nebraska, Lincoln",555,16,6.666
+University of Munich (LMU),554,15,5.575
+University of Pavia,552,36,9.958
+Kharkiv National University of Radio Electronics,551,1,178
+"Indian Institute of Technology, Roorkee",550,12,5.012
+Dresden University of Technology,548,23,6.993
+Shenzhen University,548,23,6.691
+Constantine the Philosopher University in Nitra,548,-,515
+"Mari State University, MarSU",547,1,223
+Universidad Internacional de la Rioja (UNIR),546,6,2.030
+University of Mosul,545,23,7.694
+Pontifícia Universidade Católica do Rio de Janeiro,543,4,1.623
+University of Tabriz,543,20,6.277
+Hamadan University of Medical Sciences,542,3,1.898
+Lancaster University,542,17,5.622
+University of Texas M.D. Anderson Cancer Center,542,21,5.622
+Wuhan University of Technology,541,11,3.663
+Institut de Recherche pour le Developpement (IRD),541,6,2.817
+Indian Institute of Technology (IIT) - Delhi,540,16,4.138
+Universidad Autónoma de Nuevo León,539,4,1.870
+University of Maryland,537,10,3.238
+Boreskov Institute of Catalysis SB RAS,535,7,1.877
+Kongu Engineering College INDIA,535,5,913
+Universitas Hasanuddin,533,2,731
+Belgorod State University,533,4,726
+Florida International University,532,25,7.636
+Yildiz Technical University,532,3,1.683
+Los Alamos National Laboratory,530,15,3.494
+University of Delaware,528,21,5.028
+"University of California, Riverside",528,11,5.245
+Universiti Malaysia Terengganu,527,11,6.221
+Uzhhorod National University,527,-,97
+Oregon State University,527,11,3.480
+Shupyk National University of Health of Ukraine,527,2,226
+Victoria University Wellington,526,30,8.000
+Catholic University of the Sacred Heart,525,17,5.190
+University of Leicester,522,9,3.544
+Samara National Research University,522,3,831
+King Abdullah University of Science and Technology,519,20,5.241
+Universiti Tunku Abdul Rahman,519,17,5.122
+Hong Kong University of Science and Technology,518,14,4.247
+Sungkyunkwan University,518,10,4.003
+Leiden University Medical Center (LUMC),517,18,4.860
+INPE - Brazilian National Institute for Space Research,517,5,1.429
+University of Bergen,517,13,4.822
+Kazan Federal University Naberezhnye Chelny Institute,517,-,10
+University of Alabama Birmingham,515,19,6.507
+Kyushu University,515,27,6.872
+Erasmus University Rotterdam,515,14,4.347
+Leiden University,514,18,5.071
+Zhetysu State Univeristy named after I. Zhansugurov,513,-,2
+Case Western Reserve University,513,24,8.823
+St. Jude Children's Research Hospital,513,16,5.108
+Dnipro University of Technology,513,1,177
+University of Babylon,513,8,3.022
+Okinawa Institute of Science and Technology Graduate University,512,10,2.058
+Bogazici University,512,5,1.922
+Plekhanov Russian University of Economics,512,2,253
+"Collegium Medicum Bydgoszcz, Nicolaus Copernicus University Toruń, Poland",511,3,854
+Universidade Federal do Estado do Rio de Janeiro,510,3,1.517
+University of Cagliari,510,36,10.035
+Nanjing University of Aeronautics and Astronautics,509,16,4.484
+Volgograd State Technical University,509,-,27
+California Institute of Technology,508,8,2.219
+Pontificia Universidade Catolica de Sao Paulo,508,-,216
+Universidade Nove de Julho - UNINOVE,508,3,1.120
+"National University of Ireland, Galway",507,10,2.994
+"Northeastern University, USA",505,12,4.553
+University of Salerno,505,36,11.964
+Texas Tech University,504,12,4.218
+Rice University,503,10,3.799
+University of West Bohemia,503,7,1.762
+Universitas Islam Bandung,502,-,32
+Nanjing University of Science and Technology,502,18,5.860
+Carol Davila University of Medicine and Pharmacy,502,19,5.139
+Voronezh State Agrarian University named after Emperor Peter the Great,501,-,2
+University of Trento,500,32,7.259
+Technical University of Ostrava,500,6,2.122
+"Institute of Metal Physics, Ural Branch of the Russian Academy of Sciences, IMP",500,-,237
+Universidade Federal Rural de Pernambuco (UFRPE),499,4,1.581
+Universiti Utara Malaysia,497,8,2.549
+University of Massachusetts Amherst,497,8,3.142
+University of Trás-os-Montes & Alto Douro,496,44,11.598
+University of Bordeaux,495,13,4.155
+Universidad de Concepcion,493,2,1.197
+China Agricultural University,491,10,2.800
+Chernihiv National University of Technology,491,1,513
+Ruhr University Bochum,490,24,4.903
+Vinnytsia National Agrarian University,488,-,4
+University of Turku,488,25,6.963
+University of Science and Technology Beijing,488,15,3.991
+Tel Aviv University,487,17,4.352
+University of Limerick,486,15,4.481
+Benemerita Universidad Autónoma de Puebla,486,5,1.545
+State University of New York (SUNY) Stony Brook,485,18,5.005
+NASA Goddard Space Flight Center,484,4,1.175
+Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM),484,11,3.471
+"Indian Institute of Technology (Indian School of Mines), Dhanbad",482,24,8.230
+Penza State University,482,1,253
+National Research Centre - Kurchatov Institute,482,-,419
+Ulsan National Institute of Science and Technology (UNIST),481,7,2.150
+Ivan Kozhedub Kharkiv National Air Force University (KNAFU),481,-,24
+George Washington University,481,13,4.656
+Charite Medical University of Berlin,480,27,6.384
+Universidade Federal do Rio Grande,480,4,1.527
+University of Manitoba,480,16,5.109
+University of Ferrara,479,23,6.885
+University of Aberdeen,479,22,5.590
+Zhengzhou University,479,21,3.660
+Instituto Universitario de Lisboa,477,18,4.785
+Johns Hopkins Medicine,476,24,4.692
+University of Saskatchewan,475,17,5.517
+University of Oradea,474,5,2.310
+Maastricht University,472,20,5.161
+Kyiv National Economic University named after Vadym Hetman,472,-,34
+Brown University,472,22,6.239
+Universidade Federal do Vale do São Francisco (UNIVASF),470,1,530
+Pontificia Universidade Católica do Paraná,470,4,2.934
+Argonne National Laboratory,468,10,7.287
+Universiti Teknologi Petronas,467,14,3.303
+Singapore Management University,467,2,892
+University of East Anglia,466,15,4.368
+Pacific Northwest National Laboratory,466,13,3.928
+East China Normal University,465,12,2.479
+University of Bonn,465,21,4.866
+Erasmus University Medical Center,465,26,8.145
+University of Guelph,465,19,6.398
+University of Messina,465,35,8.436
+University of Brescia,463,24,6.103
+Drexel University,462,9,3.451
+Texas A&M University College Station,460,31,8.151
+Umea University,459,25,6.483
+University of Tsukuba,458,14,4.486
+UFPI - Federal University of Piaui,458,-,835
+Atatürk University,456,6,1.785
+Universidade Federal do Amazonas,455,3,1.210
+"Indian Institute of Technology, Guwahati",455,13,3.786
+University of Zagreb,454,32,8.187
+Icahn School of Medicine at Mount Sinai,454,27,8.408
+Auburn University,453,10,3.762
+Universidade Presbiteriana Mackenzie,453,3,1.628
+University of Anbar,452,6,3.020
+Hohai University,452,11,2.869
+Chulalongkorn University,452,17,5.222
+Mazandaran University of medical sciences,451,7,1.710
+Clemson University,451,13,5.036
+University of Rijeka,451,8,2.292
+University of Warmia & Mazury,451,11,3.817
+Universite de Montpellier,449,4,2.264
+Huazhong Agricultural University,449,4,1.431
+Universidade Federal Rural do Rio de Janeiro,449,-,774
+University of Hawaii Manoa,449,12,4.456
+Indian Institute of Technology (IIT) - Kanpur,447,7,4.089
+Mayo Clinic,446,43,10.764
+Kobe University,445,17,3.728
+"Islamic Azad University, Tehran Science & Research Branch",445,12,2.922
+Hefei University of Technology,445,6,2.439
+"University of Rijeka , Faculty of Medicine",444,3,1.033
+University of Louisville,443,22,5.317
+University of Indonesia,442,4,1.549
+Medical University of Bialystok,442,6,1.581
+Universidade da Beira Interior,442,31,7.727
+Friedrich Alexander University of Erlangen-Nuremberg,441,13,3.971
+University of Verona,439,27,6.920
+Universidad Pública de Navarra,439,23,5.503
+Université de Lorraine,438,11,3.250
+"Centro de Investigaciones Energeticas, Medioambientales y Tecnologicas, CIEMAT",438,6,1.979
+Shahid Beheshti University,438,11,4.018
+Indiana University System,438,23,8.329
+Wayne State University,438,19,5.156
+Herzen State Pedagogical University of Russia,438,-,67
+Universiti Malaysia Sabah,437,10,2.206
+Sobolev Institute of Geology and Mineralogy SB RAS,437,-,164
+Universiti Teknikal Malaysia Melaka,437,14,3.797
+Northumbria University,437,19,5.246
+International Islamic University,436,7,1.666
+Northwest A&F University - China,435,6,1.645
+University of Kiel,435,14,3.537
+Université Libre de Bruxelles,435,8,3.710
+Erciyes University,435,14,4.006
+"Université 8 mai 1945 Guelma, Algeria",434,2,1.487
+Babol University of Medical Sciences,433,3,640
+Northeastern University,433,10,2.545
+Temple University,433,21,5.828
+University of Hamburg,432,15,3.755
+"University of Chemistry & Technology, Prague",432,7,2.052
+Technical University of Cluj - Napoca,431,17,6.174
+"Universidade Federal do Maranhão, UFMA (Federal University of Maranhão)",431,-,941
+Western Sydney University,431,15,4.702
+Ternopil Volodymyr Hnatiuk National Pedagogical University,431,-,127
+Ocean University of China,430,5,1.826
+Kozma Minin Nizhny Novgorod State Pedagogical University,429,-,13
+Universidad Veracruzana,429,5,2.040
+Perm National Research Polytechnic University,427,-,114
+Instituto do Coração do Hospital das Clínicas da Faculdade de Medicina da USP (InCor HCFMUSP),427,1,1.108
+National University of Defense Technology,426,3,1.273
+Frumkin Institute of Physical Chemistry & Electrochemistry Russian Academy of Sciences,426,2,474
+Jizzakh State Pedagogical Institute,425,-,-
+Annamalai University,425,3,1.110
+Southwest Jiaotong University,425,9,3.086
+Fondazione IRCCS Istituto Nazionale Tumori Milan,425,6,2.009
+Beijing University of Posts and Telecommunications,425,6,1.672
+"Military Medical Academy named after S.M. Kirov, Saint-Petersburg",425,-,6
+Medizinische Universität Wien,424,24,8.612
+Iuliu Hatieganu University of Medicine and Pharmacy Cluj Napoca,424,14,5.104
+Universiti Malaysia Sarawak (UNIMAS),424,8,1.808
+University of Oulu,424,23,6.483
+Kyung Hee University,423,7,1.880
+Heriot-Watt University,421,8,2.611
+Al Azhar University,420,13,3.992
+Bashkir State Agrarian University,419,-,58
+Universite de Strasbourg,418,13,2.709
+"Moscow Power Engineering Institute, MPEI",418,-,246
+Saint-Petersburg State Institute of Technology (Technical University),417,-,54
+Universita della Campania Vanvitelli,417,37,7.270
+University of Reading,417,18,4.438
+University of Surrey,417,16,5.184
+"Institute of Organic Chemistry and Biochemistry, Academy of Sciences of the Czech Republic",417,4,1.372
+Jiangnan University,417,4,1.308
+Eskişehir Osmangazi University,416,11,2.928
+University of New Mexico,415,19,5.778
+Anna University,415,2,1.363
+Polissia National University,415,-,3
+Donghua University,414,7,4.071
+Alekseev Nizhny Novgorod State Technical University,413,-,81
+Imam Al-Kadhum college (IKC),413,-,113
+University of Kansas,413,14,3.637
+MERSIN UNIVERSİTY,412,4,1.651
+University of Cincinnati,412,19,5.417
+Gomel State Medical University,411,-,58
+Sharif University of Technology,410,19,4.738
+Utah State University,409,7,2.993
+ITM (Instituto Tecnológico Metropolitano de Medellín),409,1,205
+University of Žilina,408,7,2.679
+University of Evora,408,13,5.224
+I. Horbachevsky Ternopil State Medical University,408,-,6
+Urmia University of Medical Sciences,407,-,382
+Jiangsu University,406,15,2.973
+"National Technical University ""Kharkiv Polytechnic Institute""",405,1,342
+Tyumen State University,404,1,464
+Warsaw University of Life Sciences - SGGW,404,19,5.733
+King Faisal University,403,10,2.416
+Humboldt-Universität zu Berlin,402,11,3.293
+Aligarh Muslim University,402,9,3.511
+Swinburne University of Technology,402,21,7.260
+Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional (CINVESTAV),402,15,3.894
+MIREA - Russian Technological University,401,2,296
+Immanuel Kant Baltic Federal University,401,1,260
+University College Cork,401,10,3.317
+University of Washington (UW) - Seattle,401,13,3.418
+"Queen's University, Kingston, Canada",401,10,3.736
+Universidade do Estado de Santa Catarina,400,2,1.329
+University of Sussex,400,12,3.238
+VI Vernadsky Crimean Federal University,400,-,43
+Nanjing Tech University,399,7,1.565
+University of Lodz,399,2,1.364
+Yale School of Medicine,399,5,2.239
+Golestan University of Medical Sciences,398,1,238
+Pavlo Tychyna Uman State Pedagogical University,398,-,4
+Zagazig University,397,39,12.517
+Kansas State University,395,18,4.482
+University of Missouri-Columbia,395,20,5.555
+Vyatka State University,395,-,17
+Instituto Butantan,395,1,533
+Universität Innsbruck,394,19,4.596
+Anadolu University,394,3,1.249
+University of Wuerzburg,394,18,4.613
+Universidad de Antioquia - UdeA,394,4,1.188
+Pirogov Russian National Research Medical University (RNRMU),393,-,258
+Umm Al Qura University,393,5,3.219
+China University of Petroleum,393,7,2.930
+Volgograd State University (VOLSU),392,-,54
+Nuclear and Energy Research Institute - IPEN-CNEN/SP,391,-,359
+Mendeleev Russian University of Chemical Technology,391,1,406
+University of Agricultural Sciences & Veterinary Medicine Cluj Napoca,391,19,4.560
+Instituto Tecnológico de Aeronáutica (ITA),390,5,1.418
+University of Gdansk,389,4,1.844
+Mahidol University,389,6,2.602
+University of Freiburg,389,21,5.060
+Brunel University,388,12,3.224
+Birjand Univercity of Medical Sciences,388,2,766
+Krasnoyarsk State Medical University,387,-,32
+Banaras Hindu University,387,7,2.015
+Waseda University,386,11,2.823
+Universidade Federal de Ouro Preto (UFOP),386,2,914
+Istituto Italiano di Tecnologia - IIT,385,15,4.277
+Technion - Israel Institute of Technology,385,11,3.717
+University of Delhi,385,9,2.431
+Technische Universität Wien,385,9,4.525
+Polytechnic University of Timisoara,384,17,4.979
+O.M.Beketov National University of Urban Economy in Kharkiv,383,-,49
+Alzahra university,382,9,2.651
+University of Texas Dallas,382,9,3.015
+Hirosaki University,381,6,1.709
+National Yang Ming Chiao Tung University,381,16,3.355
+Ardabil University of Medical Sciences,380,-,525
+Universiti Malaysia Perlis,380,18,4.889
+Grigore T. Popa University of Medicine and Pharmacy Iasi,379,12,2.766
+Scientific Centre for Expert Evaluation of Medicinal Products,379,-,1
+"""Gheorghe Asachi"" Technical University of Iasi, Romania",379,25,7.630
+COMSATS University Islamabad,379,6,1.487
+George Mason University,379,15,3.950
+Tomas Bata University in Zlín,379,5,1.035
+Russian State Social University,379,-,30
+National Institute of Technology Rourkela,378,10,3.118
+Kurdistan University of Medical Sciences,378,3,753
+Selcuk University,378,7,2.437
+Universidade do Vale do Rio dos Sinos (Unisinos),377,3,1.689
+Edith Cowan University,377,20,5.949
+Yaroslav Mudryi National Law University,377,-,18
+University of Cologne,376,11,3.033
+Free University Berlin,375,11,3.346
+Quaid-i-Azam University,375,5,2.162
+University of Miami,375,25,5.872
+Manipal University,375,26,6.330
+Zhytomyr Ivan Franko State University,375,-,32
+Shirshov Institute of Oceanology,374,-,333
+National University of Sciences & Technology - Pakistan,374,11,2.772
+Qazvin University of Medical Sciences,373,3,524
+Charles Sturt University,373,7,3.058
+"Tomsk National Research Medical Center, Russian Academy of Sciences",372,-,171
+Nosov Magnitogorsk State Technical University,372,2,634
+Moscow State University of Civil Engineering,372,-,185
+"University of Debrecen, Debrecen, Hungary",371,17,4.497
+University of Liege,370,15,5.236
+Ondokuz Mayis University Samsun,370,3,1.065
+Concordia University,370,18,6.038
+Oregon Health & Science University,369,20,5.758
+Universidad Nacional Mayor de San Marcos,369,-,470
+Universidade Federal de São Paulo - Escola Paulista de Medicina,369,1,923
+Medical University of Gdańsk,368,4,1.651
+Zhejiang University of Technology,367,3,1.319
+Shahrekord University of Medical Sciences,367,2,603
+"Shahid Sadoughi University Of Medical Sciences, Yazd, Iran",366,2,628
+Guangdong University of Technology,366,2,1.339
+Beijing Jiaotong University,366,1,625
+Manchester Metropolitan University,366,16,5.599
+Polytechnic Institute of Porto,365,26,6.893
+Oklahoma State University - Stillwater,365,14,3.486
+Beijing University of Chemical Technology,363,15,3.295
+University of St Andrews,363,11,2.896
+University of Siena,363,16,4.273
+Dalhousie University,362,17,5.166
+Indiana University - Bloomington,362,13,2.923
+Technische Universität Darmstadt,362,10,2.663
+Universidade Estadual do Oeste do Paraná,361,2,789
+University of New England,361,18,4.762
+Institute of Bioorganic Chemistry of the Russian Academy of Sciences,360,-,465
+University of Rochester,360,14,3.642
+West Virginia University,359,14,5.229
+Hormozgan University of Medical Sciences,359,2,703
+University of South Carolina,359,18,6.100
+Hacettepe University Faculty of Engineering,359,2,636
+china university of mining and technology,358,8,2.348
+Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo - HCFMUSP,358,4,986
+Universitas Negeri Surabaya,358,-,86
+University of Calabria,358,27,6.611
+University of Jyväskylä,357,8,2.816
+Odessa National Economic University,357,-,1
+Universidad Autónoma de San Luis Potosí,357,4,1.828
+Nottingham Trent University,357,18,6.747
+Simon Fraser University,357,16,4.570
+Assiut University,356,28,10.006
+Catholic University of Louvain,355,15,4.715
+"Agricultural Research, Education and Extension Organization (AREEO)",355,1,447
+Federal University of Itajubá (UNIFEI),355,1,877
+Bogomolets National Medical University,355,4,1.133
+Bialystok University of Technology,355,12,3.546
+Georgia State University,355,16,4.799
+IRCCS European Institute of Oncology (IEO),355,3,1.166
+Sumy National Agrarian University,354,-,23
+Voronezh State Technical University,354,1,108
+Open University - UK,353,3,2.254
+IRCCS Policlinico Gemelli,353,11,3.206
+Plant & Food Research,353,-,880
+Pohang University of Science & Technology (POSTECH),351,12,2.745
+"""Dunarea de Jos"" University of Galati, ROMANIA",351,8,2.399
+"Cukurova University, Faculty of Medicine",351,2,383
+Cranfield University,351,14,6.297
+University of Patras,351,31,8.009
+Qatar University,350,19,4.707
+Isfahan University of Technology,349,11,4.947
+University of Wroclaw,349,2,1.186
+Universidade Federal de Campina Grande,348,4,1.369
+University of Texas at San Antonio (UTSA),348,11,3.433
+Kazan National Research Technical University - KAI,348,1,278
+Nanjing Agricultural University,348,3,1.358
+West University of Timisoara,347,7,2.145
+Pusan National University,347,7,2.290
+University of Johannesburg,347,14,4.808
+Middle Technical University,347,14,3.648
+Mordovian State University,346,-,72
+Koya University (Kurdistan Region),346,1,417
+University Del Norte,346,-,450
+"Institute of Chemistry, Chinese Academy of Sciences",346,4,1.882
+State University of Management,345,1,121
+Friedrich Schiller University Jena,345,17,4.678
+Universidade Católica Portuguesa,344,9,2.410
+University of Science and Technology Houari Boumediene (USTHB),344,5,1.318
+University of Iceland,344,4,1.529
+Uludag University,344,5,2.285
+Technical University of Berlin,343,15,4.681
+Sumy State University,343,-,468
+Universidade Federal de Sao Joao del-Rei,343,7,2.197
+National Tsing Hua University,342,4,1.824
+"University Medical Center Groningen (UMCG), University of Groningen",342,11,3.142
+SRM Institute of Science & Technology,342,11,2.538
+National Institute of Standards & Technology (NIST) - USA,342,4,1.237
+Marche Polytechnic University,342,24,7.350
+Australian Catholic University,341,6,2.154
+Nanchang University,341,8,2.444
+Poltava State Agrarian Academy,341,1,100
+Sultan Qaboos University,341,24,6.541
+University of Oklahoma,340,19,4.253
+Kharkiv Petro Vasylenko National Technical University of Agriculture,340,-,35
+University of Hull,340,10,2.680
+Al-Balqa Applied University,339,6,4.177
+"""G.d'Annunzio"" University of Chieti-Pescara",339,21,6.690
+Kaunas University of Technology,339,11,4.587
+"ASCR, Institute of Microbiology",339,4,1.216
+Universite Paris Sud - Paris 11,338,12,2.949
+Jinan University,338,8,2.528
+University of Duisburg Essen,337,8,2.704
+University of Texas Health Science Center Houston,337,14,4.954
+"Université Abou Bekr Belkaid, Tlemcen",337,1,473
+Universitas Padjadjaran,336,1,650
+University of Dundee,336,10,3.335
+"London School of Economics and Political Science, University of London",335,16,4.357
+Tufts University,334,15,3.782
+Joint Institute for Nuclear Research,334,2,536
+University of Waikato,334,7,3.092
+CHAITANYA BHARATHI INSTITUTE OF TECHNOLOGY,334,1,984
+"Institute of Applied Physics, Russian Academy of Sciences",334,-,411
+Vilnius University,333,7,3.006
+Tomsk State University of Control Systems and Radioelectronics,333,-,191
+University of Southern Queensland,333,7,2.708
+Auckland University of Technology,332,19,5.153
+Institute of Nuclear Physics Polish Academy of Sciences,331,1,686
+Goethe University Frankfurt,330,15,3.960
+Suleyman Demirel University,329,1,2.115
+Tampere University of Technology,329,1,847
+Institut Teknologi Bandung (ITB),329,8,1.466
+Lorestan University of Medical Sciences,329,1,239
+Harbin Engineering University,329,10,2.543
+Dnipro National University of Railway Transport,329,1,109
+St. Petersburg State Electrotechnical University LETI,328,9,2.219
+Universidad de Santiago de Chile,328,3,1.472
+"New Horizon College of Engineering, Bangalore",328,-,171
+Slovak University of Technology Bratislava,327,6,2.646
+University of Essex,327,17,3.705
+Universidad de Burgos,327,8,2.651
+Universitas Gadjah Mada,326,5,1.549
+Johannes Kepler University Linz,326,14,3.098
+Swansea University,326,5,1.501
+Kazan State University of Architecture and Engineering,326,-,18
+Don State Technical University,325,3,1.414
+York University,325,14,3.238
+University of Agriculture Faisalabad,325,9,2.915
+Southwest University,325,6,1.938
+Moscow Institute of Electronic Technology,324,-,97
+Plymouth University,324,5,2.517
+Instituto Federal de Sao Paulo (IFSP),324,-,279
+Istinye University,324,6,3.066
+University of the South Pacific,323,2,868
+"National Pirogov Memorial Medical University, Vinnytsya",323,-,143
+"Dalian Institute of Chemical Physics, Chinese Academy of Sciences",323,5,1.767
+Moscow Polytechnic University,323,-,35
+Kemerovo State University,323,3,1.717
+Helmholtz-Center Munich - German Research Center for Environmental Health,322,4,1.328
+Universidad Autónoma de Baja California,321,5,2.281
+University of Ljubljana,321,20,4.489
+Fuzhou University,321,15,3.756
+Universidad de Guanajuato,321,10,1.592
+Sathyabama University,321,3,1.161
+North-Eastern Federal University in Yakutsk,320,-,11
+Weizmann Institute of Science,320,2,1.527
+Weill Cornell Medicine,320,20,4.934
+University of Kent,320,9,2.582
+Universidade Estadual de Ponta Grossa,320,3,952
+"Prydniprovska State Academy of Civil Engineering and Architecture, PSACEA",320,-,2
+Kharkevich Institute for Information Transmission Problems of the RAS,318,3,636
+University of Salento,318,26,7.264
+University of Deusto,318,7,2.197
+Universitat Oberta de Catalunya,317,10,2.469
+University of Silesia,317,5,2.051
+"Covenant University, Canaanland, Ota, Ogun State, Nigeria",317,6,2.534
+"Universidade Estadual do Norte Fluminense ""Darcy Ribeiro"", UENF",317,4,1.947
+National Technical University of Athens,317,28,13.791
+Volgograd State Medical University,316,-,77
+Biology Centre of the Czech Academy of Sciences,316,4,1.810
+University of Eastern Finland,314,7,3.608
+Andijan State Medical Institute,314,-,-
+Universite de Nantes,314,6,3.418
+University of Aquila,313,18,6.679
+Paul Scherrer Institut (PSI),313,6,1.465
+K. N. Toosi University of Technology,312,12,3.184
+University of Portsmouth,312,11,4.283
+Beijing Forestry University,310,-,762
+Voronezh State University,310,2,444
+Koc University,309,7,2.502
+Moscow State University of Food Production,309,-,1
+University of Leipzig,309,11,3.256
+University of Trieste,308,17,4.905
+University of Bremen,308,12,3.003
+Georg-August University Göttingen,308,17,4.354
+Universidad de Los Andes,308,8,1.413
+University of the Sunshine Coast,308,13,4.596
+Xidian University,307,10,2.080
+Malla Reddy Engineering College (Autonomous),307,1,132
+Mugla Sitki Kocman University,306,4,1.852
+University of Ostrava,305,2,685
+Brigham Young University,305,8,2.977
+Pontifícia Universidade Católica de Minas Gerais,305,-,331
+Universidad del Valle,305,-,453
+"Escola de Engenharia de São Carlos - Universidade de São Paulo, EESC-USP",304,1,398
+"Animal and Plant Health Agency, APHA",303,1,166
+V.N. Karazin Kharkiv National University,302,4,713
+University of Macau,302,22,5.580
+Aston University,301,11,2.975
+Carleton University,301,12,3.205
+IRCCS Ospedale San Raffaele,301,15,2.757
+Memorial Sloan Kettering Cancer Center (MSKCC),301,11,2.984
+Universite de Rennes 1,301,10,3.655
+Universidad Católica de Valencia San Vicente Mártir,300,2,491
+All India Institute of Medical Sciences,300,19,5.547
+Centre for Genomic Regulation (CRG),300,-,293
+University of Texas at Arlington,298,8,3.073
+Universidad Catolica de Murcia,298,4,1.331
+Tilburg University,298,9,2.408
+IRCCS Humanitas Research Hospital,298,3,1.408
+Universidad Politécnica de Cartagena (UPCT),298,11,3.973
+Universidade Federal de Alfenas,298,2,829
+Gubkin Russian State University of Oil & Gas,297,-,233
+Khon Kaen University,297,10,3.186
+Universidade Paulista,297,1,584
+Roma Tre University,297,16,4.023
+Canakkale (18th March) University,297,6,1.485
+Pamukkale University,296,4,1.023
+University of Mazandaran,296,8,2.193
+South China Normal University,296,6,1.557
+Moscow State University of Psychology & Education,295,-,36
+Lawrence Livermore National Laboratory,295,4,1.973
+Universidad Austral de Chile,295,5,1.811
+North Caucasus Federal University,294,-,146
+Bila Tserkva National Agrarian University,294,-,-
+University of Victoria,294,17,3.595
+University of Isfahan,294,6,2.841
+"Institute of Physics, Polish Academy of Sciences",293,3,907
+Multimedia University,293,4,1.764
+"École Polytechnique de Montréal, Université de Montréal",293,10,3.327
+Beijing University of Technology,292,7,2.377
+"Islamic Azad University, Najafabad Branch",292,7,3.458
+Istituto Nazionale Geofisica e Vulcanologia (INGV),292,2,1.083
+University Medical Center Utrecht,292,21,4.683
+Murdoch University,291,9,3.531
+University of Udine,291,15,4.143
+Nanjing University of Information Science & Technology,290,16,4.094
+University of Canterbury,290,11,2.746
+Chongqing Medical University,290,2,656
+"National University of Food Technologies, NUFT",290,-,16
+Universidade de Passo Fundo (UPF),289,-,399
+Universidad de Medellín,289,-,94
+Sakarya University,289,1,713
+Donbass State Pedagogical University,288,-,14
+Shahid Chamran University of Ahvaz,288,6,1.842
+Southwest State University,288,1,114
+Semnan University,288,11,4.087
+University of Potsdam,288,14,2.887
+Bushehr University of Medical Sciences,287,1,291
+"University of Ibadan, Ibadan, Nigeria UI",287,4,1.577
+UK Centre for Ecology & Hydrology,287,3,1.273
+Semnan University of Medical Sciences,286,-,203
+Universite Toulouse III - Paul Sabatier,286,9,2.151
+Mississippi State University,286,10,3.599
+Prince Sultan University,286,6,2.420
+Kyungpook National University,285,10,2.470
+University of Oregon,285,6,1.714
+Samara State Academy of Architecture and Civil Engineering,285,-,2
+"National Institute of Technology, Trichy",285,6,1.786
+Saken Seifullin Kazakh Agrotechnical University,285,-,15
+Sobolev Institute of Mathematics of SB RAS,284,1,497
+Guangxi University,283,5,1.571
+Fondazione IRCCS Ca Granda Ospedale Maggiore Policlinico Università degli studi di Milano,283,4,1.448
+Kashan University of Medical Sciences,283,2,486
+Admiral Makarov National University of Shipbuilding,283,-,46
+Chiang Mai University,282,3,2.036
+United States Geological Survey,282,10,2.760
+Scripps Research,282,1,841
+"Higher School of Economics, HSE (Campus in St. Petersburg)",281,1,228
+Albert Einstein College of Medicine,281,8,2.860
+Perm State University,281,-,93
+Syktyvkar State University,281,-,3
+Kutateladze Institute of Thermophysics of the Siberian Branch of the Russian Academy of Sciences,280,-,258
+University of Texas Health Science Center at San Antonio,280,9,2.790
+Persian Gulf University,280,3,1.061
+Jagiellonian University Medical College,279,11,2.697
+Charles Darwin University (CDU),279,8,1.837
+China Pharmaceutical University Nanjing,279,5,916
+"Instituto de Ecología, A.C. (INECOL), CONACYT",279,2,635
+Bogdan Khmelnitsky Melitopol State Pedagogical University,278,-,16
+Universidad de La Sabana,278,1,424
+Zahedan University of Medical Sciences,277,3,1.053
+Orenburg State University,277,-,7
+University of Alabama,277,10,1.894
+"Institute of Philosophy, Russian Academy of Sciences",277,-,1
+Payame Noor University,276,5,2.210
+Cracow University of Technology / Politechnika Krakowska,276,15,4.153
+Chechen State University,276,-,-
+Medical College of Wisconsin,276,20,5.659
+Amity University Noida,276,3,702
+Medical University of South Carolina,276,10,3.752
+University of Crete,276,13,3.761
+Semenov Institute of Chemical Physics,275,2,664
+Universitas Muhammadiyah Yogyakarta,275,1,327
+Tulane University,275,9,2.606
+Hospital Clinic Barcelona,275,7,2.421
+Hong Kong Baptist University,275,6,1.753
+Kuban State University,274,2,279
+Samara State Medical University,273,1,897
+Ihsan Dogramaci Bilkent University,273,6,1.752
+Chiba University,273,8,2.354
+"Kurnakov Institute of General and Inorganic Chemistry of the Russian Academy of Sciences, IGIC RAS",272,2,415
+Helwan University,272,8,3.796
+"University of Nevada, Las Vegas",272,11,2.986
+Polytechnic School of University of São Paulo,272,2,773
+University of Kurdistan,271,8,1.798
+Victor Babes University of Medicine and Pharmacy,270,9,2.981
+Georgetown University,270,5,2.747
+Skolkovo Institute of Science and Technology (Skoltech),270,6,1.352
+Belgorod State Technological University named after V.G. Shukhov,269,-,81
+Pontificia Universidad Javeriana,269,2,1.051
+Ryerson University,269,18,5.552
+SRM University - kattakuathur campus,269,3,967
+University of Wyoming,269,8,3.046
+Muffakham Jah College of Engineering & Technology,269,-,262
+Universidade Estadual de Santa Cruz (UESC),269,-,480
+University of Natural Resources and Life Sciences Vienna (BOKU),269,14,4.215
+Centers for Disease Control & Prevention - USA,268,6,1.664
+Pondicherry University,268,3,1.245
+Hospital de Clínicas de Porto Alegre (HCPA),268,2,892
+North-West University,267,2,1.737
+National Institute of Amazonian Research - INPA,267,-,755
+"University of Nevada, Reno",267,10,3.052
+Transylvania University of Brasov,267,12,3.507
+Kent State University,266,17,4.119
+Joint Institute for High Temperatures of the Russian Academy of Sciences,266,-,311
+SRKR Engineering College,266,-,60
+"Royal College of Surgeons in Ireland, RCSI",266,4,1.866
+Comillas Pontifical University,265,-,598
+University of Life Sciences in Lublin,265,10,3.458
+Memorial University Newfoundland,265,15,4.070
+Helmholtz Centre for Environmental Research - UFZ,265,18,3.546
+"Institute of Physics, Chinese Academy of Sciences",265,2,890
+University of Buenos Aires,265,11,3.105
+Universidade de Pernambuco (UPE),264,1,771
+Coventry University,264,12,3.366
+Dublin City University,264,11,2.994
+Yangzhou University,264,8,2.524
+South China Agricultural University,264,5,1.123
+University of North Texas Denton,264,10,2.937
+Colorado School of Mines,264,3,1.206
+Universita' Ca' Foscari Venezia,264,14,3.228
+Universidad Michoacana de San Nicolás de Hidalgo,264,2,1.044
+University of Hyderabad,264,3,1.799
+Poznan University of Life Sciences,264,19,3.648
+Universidade Federal dos Vales do Jequitinhonha e Mucuri - UFVJM,264,1,866
+New Mexico State University,263,9,2.262
+Ulm University,263,9,2.750
+Visvesvaraya National Institute of Technology,263,7,1.687
+Kasetsart University,263,2,1.070
+Northern Arctic Federal University,263,-,78
+University of Huddersfield,262,10,3.636
+Hasselt University,262,10,2.021
+MADANAPALLE INSTITUTE OF TECHNOLOGY & SCIENCE,262,2,744
+University of Colorado-Anschutz Medical Campus,261,14,3.516
+Bangor University,261,4,2.323
+Chang'an University,261,4,1.494
+Hospital Israelita Albert Einstein,261,3,1.371
+Universitas Telkom,260,2,493
+Rensselaer Polytechnic Institute,260,3,1.284
+Wroclaw Medical University,260,5,1.486
+Kumaraguru College of Technology (KCT),260,2,739
+Chung Ang University,259,8,1.989
+Ufa State Aviation Technical University,259,2,414
+"Birla Institute of Technology, Ranchi",259,9,2.351
+Universidade Federal da Grande Dourados,259,1,417
+Al-Mustaqbal University College,259,1,388
+Polytechnic Institute of Lisbon,258,17,4.958
+Universitas Sriwijaya,257,1,289
+Higher Colleges of Technology,257,2,433
+Agricultural Research Service - USDA,257,19,4.384
+"Kyrgyz State Technical University, KSTU",257,-,-
+University of Wisconsin Milwaukee,257,6,1.934
+Universidad CEU Cardenal Herrera,257,3,883
+University of Canberra,257,11,2.749
+Kwame Nkrumah University Science & Technology,257,10,2.755
+University of Craiova,256,7,2.170
+Nanjing Normal University,256,14,2.745
+University of Guilan,256,8,2.777
+Universidad Autónoma Chapingo,256,1,182
+University of Salford,256,2,1.176
+Russian State University for the Humanities,255,-,8
+Brookhaven National Laboratory,255,5,1.113
+Prince of Songkla University,255,4,1.542
+Rafsanjan University of Medical Sciences,255,-,112
+University of Zanjan,254,13,4.414
+Tokyo University of Marine Science and Technology,254,-,325
+Belarusian State University,254,4,808
+University of Tübingen,254,17,4.296
+University of Stuttgart,254,14,3.383
+Shahid Bahonar University of Kerman,254,5,2.128
+University of Paris Descartes,254,7,1.655
+Indian Institute of Technology (IIT BHU) - Varanasi,254,6,1.815
+Baskent University,253,3,956
+"Yıldız Technical University, YTU",253,1,286
+Technische Universität München,253,21,4.896
+Instituto Politécnico de Bragança,253,10,2.525
+UFCSPA - Universidade Federal de Ciências da Saúde de Porto Alegre,253,2,733
+Ton Duc Thang University,253,12,4.236
+University of Sadat City,252,-,327
+National Oceanic and Atmospheric Administration (NOAA),252,5,1.751
+Tikrit University,252,6,2.630
+Universidade Federal do Triângulo Mineiro - UFTM,251,1,538
+Universite de Bourgogne,251,4,1.824
+Military University of Technology in Warsaw,251,5,1.589
+Harbin Medical University,250,1,425
+Tanta University,250,19,5.623
+wenzhou medical university,250,3,930
+Institut de Phisique du Globe,250,-,192
+Jadavpur University,250,10,3.609
+North China Electric Power University,250,5,1.542
+Kyrgyz State Medical Academy,249,-,15
+TED University,249,-,171
+University of Nebraska Medical Center,249,17,4.297
+National Health Research Institutes - Taiwan,249,4,722
+Adnan Menderes University,249,7,1.818
+"Justus-Liebig-University Giessen, JLU",249,3,1.472
+University of Luxembourg,248,10,3.477
+J. Heyrovsky Institute of Physical Chemistry of the Czech Academy of Sciences,248,5,1.115
+Platov South Russian State Polytechnic University,248,-,91
+University of Pennsylvania School of Medicine,248,3,1.276
+University of Sassari,247,17,4.886
+Universidad andres bello,247,4,902
+Universitas Sumatera Utara,247,1,468
+University of Karachi,247,6,1.543
+Czech academy of sciences,246,7,1.474
+Institute of Physiology of the Czech Academy of Sciences,246,-,300
+Instituto Politécnico de Leiria,246,18,5.060
+"University of Cape Coast, Cape Coast, Ghana",245,7,2.504
+Universidad de La Frontera,245,1,755
+Renmin University of China,244,3,800
+"Academic Medical Center, Amsterdam",244,9,2.109
+Université Paris-Diderot,244,8,2.852
+Tashkent Pharmaceutical Institute,244,-,4
+The Institute of Problems of Chemical Physics of the RAS,244,-,85
+"Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences",244,4,1.162
+University of North Carolina at Charlotte,243,10,3.603
+QIMR Berghofer Medical Research Institute,243,4,1.481
+Stepan Gzhytskyi National University of Veterinary Medicine and Biotechnologies Lviv,243,-,7
+Pontificia Universidad Católica de Valparaíso (PUCV),243,1,442
+Kazan national research technological university,243,-,41
+Federal State Budget Scientific Institution “Federal Scientific Centre VIEV” (FSC VIEV),243,-,5
+Otto von Guericke University,242,8,1.855
+National Aerospace University Kharkov Aviation Institute,242,1,161
+Dartmouth College,242,15,3.210
+CIRAD,241,4,1.343
+National Cancer Institute,241,11,2.832
+"Severtsov Institute of Ecology and Evolution, Russian Academy of Sciences",241,2,410
+Istanbul Sabahattin Zaim University,241,1,402
+Sandia National Laboratories,241,7,2.225
+Institute of Cytology and Genetics SB RAS,241,1,839
+Sh.Yessenov Caspian state university of technologies and engineering (Yessenov University),241,-,1
+Cincinnati Children's Hospital Medical Center,240,12,3.073
+University of Tampere,240,7,2.464
+Lucian Blaga University of Sibiu,240,2,1.418
+Izmir Institute of Technology,240,1,960
+Galatasaray University,240,-,80
+London School of Hygiene & Tropical Medicine (LSHTM),240,13,3.606
+"University of California, Santa Cruz",239,9,2.124
+Liverpool John Moores University,239,12,3.876
+Vilnius Gediminas Technical University,239,11,3.395
+Syracuse University,239,3,1.373
+Institute of Strength Physics and Materials Science of Siberian Branch Russian Academy of Sciences,239,1,577
+University of Munster,239,23,4.876
+University of Social Welfare and Rehabilitation Sciences,239,-,286
+Northwest University Xi'an,238,3,1.068
+Bahauddin Zakariya University,238,8,2.125
+Thammasat University,238,2,733
+IRCCS Bambino Gesu,238,4,1.277
+University of Fribourg,237,5,1.697
+University of Stirling,237,9,3.503
+"A.V. Topchiev Institute of Petrochemical Synthesis, Russian Academy of Sciences",237,2,581
+Politecnico di Bari,237,18,4.437
+Nanjing Medical University,236,3,998
+Jawaharlal Nehru University,236,3,945
+University of Thessaly,236,33,7.951
+Yokohama National University,236,6,1.742
+San Diego State University,236,5,2.541
+New York University School of Medicine,235,7,2.466
+University of Pavol Jozef Safarik Kosice,235,4,1.247
+University of Konstanz,235,8,2.283
+Taiyuan University of Technology,235,4,986
+Universidade Federal do Pampa,235,1,636
+Universitas Pendidikan Indonesia,234,-,211
+Old Dominion University,234,7,2.064
+Arak University of Medical Sciences,234,-,302
+Dr.N.G.P Arts and Science College (Autonomous),233,-,13
+Maria Curie-Sklodowska University,233,4,1.108
+South Ukrainian National Pedagogical University Named After K. D. Ushynsky,233,-,13
+"Masaryk University (MU), Faculty of Social Studies",233,-,316
+Irkutsk National Research Technical University,233,3,1.218
+University of Shanghai for Science and Technology,233,8,1.440
+Universidad Autónoma de Querétaro,233,2,776
+Trofimuk Institute of Petroleum Geology and Geophysics SB RAS,232,1,257
+Universiti Sultan Zainal Abidin (UniSZA),232,1,800
+Ningbo University,232,6,1.700
+Nanjing Forestry University,232,5,1.370
+Universiti Pendidikan Sultan Idris,232,4,1.038
+Indian Institute of Chemical Technology (IICT),231,2,517
+Oxford Brookes University,231,11,2.849
+Urmia University,231,12,3.529
+Vanderbilt University Medical Center,231,9,2.327
+University of Hertfordshire,231,9,2.980
+"Institute of Psychiatry, Psychology and Neuroscience, Kings College London",231,1,635
+Kampala International University,231,1,179
+Istituti Clinici Scientifici Maugeri IRCCS S.p.A-SB,231,4,880
+Southern Cross University,230,11,1.945
+Bashkir State University,230,1,122
+Institute of Macromolecular Chemistry of the Czech Academy of Sciences,230,2,505
+War Studies University,230,1,162
+Chonbuk National University,230,5,1.462
+South Valley University,230,6,1.574
+University of Arkansas Medical Sciences,230,17,4.126
+"Maulana Azad National Institute of Technology (MANIT), Bhopal",230,1,629
+Leibniz University Hannover,229,12,3.347
+Kotel'nikov Institute of Radio Engineering and Electronics of Russian Academy of Sciences,229,2,601
+Universität Graz,229,9,2.274
+Harvard T.H. Chan School of Public Health (HSPH),229,6,2.067
+Rhodes University,229,3,1.650
+IRCCS Aviano (CRO),229,3,696
+BMS College of Engineering,229,3,678
+University of Akron,228,8,2.077
+China Medical University (Taiwan),228,19,7.284
+Ufa State Petroleum Technological University,228,-,82
+Egyptian Petroleum Research Institute (EPRI),228,6,1.680
+Université de Sherbrooke,228,9,2.572
+Moscow Timiryazev Agricultural Academy,228,-,31
+RVR & JC College of Engineering,228,1,184
+Bournemouth University,228,4,2.467
+Universidad del Cauca,227,1,386
+University of Toledo,227,12,3.005
+Intel Corporation,227,8,2.624
+Orel State University,227,-,34
+Hannover Medical School,227,11,2.775
+Ryazan State Medical University,227,-,11
+Hospital Universitari Vall d'Hebron,227,1,941
+Suez Canal University,227,15,6.899
+Vignan University,227,4,707
+Universität Salzburg,226,6,2.115
+National Central University,226,4,1.350
+Universidad Autónoma de Tamaulipas,226,1,312
+Qingdao University,226,3,1.044
+University of Vermont,226,16,3.315
+Chungnam National University,226,5,2.707
+Universidad de Colima,225,-,567
+Universidad de La Rioja,225,7,1.536
+Universidade Federal do Tocantins - UFT,225,3,709
+Faculdade de Odontologia da Universidade de São Paulo (FOUSP),225,-,380
+"Institute of Atmospheric Physics, Chinese Academy of Sciences",225,9,2.267
+Universidad de la República,225,5,2.656
+Rigshospitalet,224,10,2.562
+"Beni-Suef University, BSU",224,12,3.824
+Nesmeyanov Institute of Organoelement Compounds,224,1,478
+Berdyansk State Pedagogical University,224,-,-
+Kherson State Maritime Academy,224,-,33
+Altai State University,224,-,45
+University of Colorado Denver,223,9,2.329
+Universidad de Costa Rica,223,3,884
+ESKISEHIR TECHNICAL UNIVERSITY,223,-,511
+Changchun Institute of Applied Chemistry,223,5,1.666
+Aalto University School of Science,223,-,153
+Trakya University,223,3,987
+US Food and Drug Administration (FDA),223,7,1.974
+Kerman University of Medical Sciences,223,8,1.959
+Moscow State University of Medicine and Dentistry named after A.I. Evdokimov,222,-,19
+Ovidius University of Constanta,222,4,1.060
+Universidad de Sonora,222,2,643
+University of Science and Culture,222,3,673
+Al Qasim Green University,222,1,479
+Bar-Ilan University,222,6,1.938
+"VU University Medical Center Amsterdam, VUmc",221,5,2.218
+Universidad Autónoma del Estado de Hidalgo,221,2,498
+Heinrich Heine University Düsseldorf,221,14,3.028
+Universitas Brawijaya,221,1,617
+Sheffield Hallam University,221,8,2.707
+United Arab Emirates University,221,10,3.280
+Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria,221,10,2.952
+Universidade de Caxias do Sul,221,1,1.066
+Brigham and Women's Hospital,221,15,3.780
+Universidade Estadual do Ceará,220,3,644
+Empa - Swiss Federal Laboratories for Materials Science & Technology,220,6,1.820
+Bharathiar University,220,6,2.361
+Vinnytsia Institute of Trade and Economics of KNUTE,220,-,-
+Rzeszow University of Technology,220,19,4.980
+Universidade Estadual da Paraíba (UEPB),220,2,597
+Zoological Institute Russian Academy of Sciences,219,2,694
+University of Maryland at Baltimore,219,10,2.814
+Kunming University of Science and Technology,219,3,970
+Escuela Superior Politécnica del Litoral (ESPOL),219,3,589
+Almazov National medical research centre,219,3,713
+University of Tennessee Health Science Center,218,12,2.991
+Cleveland Clinic,218,27,6.814
+Atyrau State University named after Khalel Dosmukhamedov,218,-,-
+Victoria University,218,5,1.390
+"istanbul University, Faculty of Medicine",217,2,741
+Florida Atlantic University,217,5,1.617
+University of the Free State,217,8,2.945
+Moscow state university of design and technology,217,-,8
+"Hogeschool Gent, HoGent",216,-,46
+Khalifa University,216,8,1.778
+Nazarbayev University,216,16,4.872
+Sabanci University,216,4,1.864
+University of Central Lancashire,216,2,1.664
+Universidad Técnica Particular de Loja (UTPL),216,-,202
+Portland State University,216,1,1.166
+Al-Furat Al-Awsat Technical University,216,5,1.345
+Institute of biology of Komi scientific centre of the Ural branch of the Russian academy of sciences,216,-,163
+State University of New York at Binghamton,216,5,2.007
